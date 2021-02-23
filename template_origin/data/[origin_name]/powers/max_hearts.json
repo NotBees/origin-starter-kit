@@ -1,0 +1,11 @@
+{
+	"type": "origins:attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.max_health",
+		"operation": "addition",
+		"value": 0
+		
+	},
+	"name": "Maximum Health",
+	"description": "Your health is not changed by default :/"
+}

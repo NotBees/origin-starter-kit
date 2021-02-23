@@ -1,0 +1,6 @@
+{
+  "type": "origins:walk_on_fluid",
+  "fluid": "minecraft:water",
+  "name": "Jesus",
+  "description": "Walk on water"
+}

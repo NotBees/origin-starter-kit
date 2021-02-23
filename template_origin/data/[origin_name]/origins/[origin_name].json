@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"originname:add_velocity",
+		"originname:air_swim",
+		"originname:fluid_walk",
+		"originname:max_hearts",
+		"originname:model_color"
+		
+	],
+	"icon": "minecraft:stone",
+	"order": 10,
+	"impact": 1
+	"name": "[Origin Name]",
+	"description": "[Description]"
+}
